@@ -37,7 +37,7 @@ public class Main {
        // Ferma ferma2 = new Ferma( " Бостон", "Таалайбек",new Ui18[]{ui6}, new Jylky18[]{jylky3}, new Koi18[]{koi4});
 
         Ferma ferma1 = new Ferma( "Кырчын","Табыш",new Ui18[]{ui1,ui2,ui3,ui4,ui5},
-                                 new Jylky18[]{jylky1,jylky2},new Koi18[]{koi1,koi2,koi3});
+                                 new Jylky18[]{jylky1,jylky2,},new Koi18[]{koi1,koi2,koi3});
 
         Ferma ferma2 = new Ferma( " Бостон", "Таалайбек",new Ui18[]{ui6}, new Jylky18[]{jylky3}, new Koi18[]{koi4});
 

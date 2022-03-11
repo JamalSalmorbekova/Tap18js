@@ -61,6 +61,7 @@ public class Jylky18 {
                 "Салмагы - " + vesJylky +
                 ", Жашы -  " + jashyJylky +
                 ", гени -" + genderJylky +
+                ", Жылкынын тусу-"+tycyJylky +
                 ", Жылкынын аты - '" + atyJylky + '\'' +
                 '}';
     }
